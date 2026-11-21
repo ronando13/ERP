@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T21:04:25.365Z",
+    "updatedAt": "2026-11-21T21:09:02.724Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
@@ -86,6 +86,18 @@
       "preco": 34.9,
       "estoque": 14,
       "estoqueMin": 5
+    },
+    {
+      "id": "prd-1795295342724",
+      "sku": "PRD-106",
+      "codigoBarras": "7908371628195",
+      "nome": "Ilia Completa 50ml",
+      "marca": "Natura",
+      "categoria": "Perfumaria",
+      "custo": 1,
+      "preco": 3,
+      "estoque": 1,
+      "estoqueMin": 2
     }
   ],
   "clientes": [
