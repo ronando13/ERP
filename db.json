@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T21:09:32.734Z",
+    "updatedAt": "2026-11-21T22:07:55.736Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
@@ -104,6 +104,14 @@
       "cpf": "",
       "endereco": "Av. Brasil, 890",
       "aniversario": "1988-11-22"
+    },
+    {
+      "id": "cli-1795298875735",
+      "nome": "Ronando Martins Flores",
+      "telefone": "51982274043",
+      "cpf": "",
+      "endereco": "Rua A Cohab Sabucaia do Sul",
+      "aniversario": "1975-08-26"
     }
   ],
   "vendas": [
