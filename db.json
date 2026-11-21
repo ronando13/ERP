@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T21:04:21.492Z",
+    "updatedAt": "2026-11-21T21:04:25.365Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
@@ -234,15 +234,5 @@
       "status": "Pedido Feito"
     }
   ],
-  "financeiro": [
-    {
-      "id": "FIN-1",
-      "data": "2026-11-21",
-      "tipo": "Entrada",
-      "categoria": "Vendas PDV",
-      "descricao": "Venda #VND-1001 - Mariana Silva",
-      "valor": 64.9,
-      "forma": "Pix"
-    }
-  ]
+  "financeiro": []
 }
