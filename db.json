@@ -1,15 +1,15 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T22:07:55.736Z",
+    "updatedAt": "2026-11-21T22:18:43.155Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
-    "nomeFantasia": "Bazar da Tiane",
-    "razaoSocial": "Bazar da Tiane",
+    "nomeFantasia": "Bazar & Perfumaria Encanto",
+    "razaoSocial": "Bazar e Variedades Encanto ME",
     "cnpj": "00.000.000/0001-00",
     "telefone": "(51) 99999-0000",
-    "endereco": "Rua Alfredo Scharlau, 170 - Cohab",
+    "endereco": "Rua Principal, 123 - Centro",
     "mensagemRecibo": "Obrigado pela preferência! Trocas em até 7 dias com este comprovante.",
     "logoUrl": ""
   },
@@ -23,7 +23,7 @@
       "ativo": true
     },
     {
-      "id": "usr-1795232075576",
+      "id": "usr-1795299523155",
       "nome": "Cristiane",
       "usuario": "cristiane",
       "senha": "1234",
@@ -35,28 +35,31 @@
     {
       "id": "prd-1",
       "sku": "NAT-001",
+      "codigoBarras": "7899846013247",
       "nome": "Deo Parfum Essencial Oud Feminino 100ml",
       "marca": "Natura",
       "categoria": "Perfumaria",
       "custo": 129.9,
       "preco": 219.9,
-      "estoque": 2,
+      "estoque": 6,
       "estoqueMin": 2
     },
     {
       "id": "prd-2",
       "sku": "NAT-002",
+      "codigoBarras": "7908132248120",
       "nome": "Hidratante Corporal Tododia Macadâmia 400ml",
       "marca": "Natura",
       "categoria": "Corpo & Banho",
       "custo": 38.5,
       "preco": 64.9,
-      "estoque": 9,
+      "estoque": 12,
       "estoqueMin": 4
     },
     {
       "id": "prd-3",
       "sku": "AVN-001",
+      "codigoBarras": "7909189123456",
       "nome": "Colônia Far Away Original 50ml",
       "marca": "Avon",
       "categoria": "Perfumaria",
@@ -68,23 +71,25 @@
     {
       "id": "prd-4",
       "sku": "EUD-001",
+      "codigoBarras": "7891033472109",
       "nome": "Combo Siàge Eudora Shampoo + Condicionador",
       "marca": "Eudora",
       "categoria": "Cabelos",
       "custo": 52,
       "preco": 89.9,
-      "estoque": 1,
+      "estoque": 2,
       "estoqueMin": 3
     },
     {
       "id": "prd-5",
       "sku": "PRE-001",
+      "codigoBarras": "7898541200154",
       "nome": "Caneca Porcelana Decorada Presente + Caixa",
       "marca": "Presentes",
       "categoria": "Presentes & Bazar",
       "custo": 16,
       "preco": 34.9,
-      "estoque": 14,
+      "estoque": 15,
       "estoqueMin": 5
     }
   ],
@@ -104,20 +109,12 @@
       "cpf": "",
       "endereco": "Av. Brasil, 890",
       "aniversario": "1988-11-22"
-    },
-    {
-      "id": "cli-1795298875735",
-      "nome": "Ronando Martins Flores",
-      "telefone": "51982274043",
-      "cpf": "",
-      "endereco": "Rua A Cohab Sabucaia do Sul",
-      "aniversario": "1975-08-26"
     }
   ],
   "vendas": [
     {
       "id": "VND-1001",
-      "data": "2026-11-21T03:21:50.964Z",
+      "data": "2026-11-21T22:16:04.133Z",
       "clienteId": "cli-1",
       "clienteNome": "Mariana Silva",
       "itens": [
@@ -139,92 +136,6 @@
       "vencimento": "",
       "valorPago": 64.9,
       "vendedor": "Administrador Geral"
-    },
-    {
-      "id": "VND-1002",
-      "data": "2026-11-21T03:22:49.003Z",
-      "clienteId": "",
-      "clienteNome": "Consumidor Final",
-      "itens": [
-        {
-          "produtoId": "prd-1",
-          "sku": "NAT-001",
-          "nome": "Deo Parfum Essencial Oud Feminino 100ml",
-          "marca": "Natura",
-          "preco": 219.9,
-          "custo": 129.9,
-          "qtd": 1
-        },
-        {
-          "produtoId": "prd-2",
-          "sku": "NAT-002",
-          "nome": "Hidratante Corporal Tododia Macadâmia 400ml",
-          "marca": "Natura",
-          "preco": 64.9,
-          "custo": 38.5,
-          "qtd": 1
-        },
-        {
-          "produtoId": "prd-4",
-          "sku": "EUD-001",
-          "nome": "Combo Siàge Eudora Shampoo + Condicionador",
-          "marca": "Eudora",
-          "preco": 89.9,
-          "custo": 52,
-          "qtd": 1
-        }
-      ],
-      "subtotal": 374.70000000000005,
-      "desconto": 0,
-      "total": 374.70000000000005,
-      "formaPagamento": "Pix",
-      "statusPagamento": "Pago",
-      "vencimento": "",
-      "valorPago": 374.70000000000005,
-      "vendedor": "Administrador Geral"
-    },
-    {
-      "id": "VND-1003",
-      "data": "2026-11-21T03:28:08.190Z",
-      "clienteId": "",
-      "clienteNome": "Consumidor Final",
-      "itens": [
-        {
-          "produtoId": "prd-2",
-          "sku": "NAT-002",
-          "nome": "Hidratante Corporal Tododia Macadâmia 400ml",
-          "marca": "Natura",
-          "preco": 64.9,
-          "custo": 38.5,
-          "qtd": 2
-        },
-        {
-          "produtoId": "prd-1",
-          "sku": "NAT-001",
-          "nome": "Deo Parfum Essencial Oud Feminino 100ml",
-          "marca": "Natura",
-          "preco": 219.9,
-          "custo": 129.9,
-          "qtd": 3
-        },
-        {
-          "produtoId": "prd-5",
-          "sku": "PRE-001",
-          "nome": "Caneca Porcelana Decorada Presente + Caixa",
-          "marca": "Presentes",
-          "preco": 34.9,
-          "custo": 16,
-          "qtd": 1
-        }
-      ],
-      "subtotal": 824.4,
-      "desconto": 0,
-      "total": 824.4,
-      "formaPagamento": "Pix",
-      "statusPagamento": "Pago",
-      "vencimento": "",
-      "valorPago": 824.4,
-      "vendedor": "Administrador Geral"
     }
   ],
   "encomendas": [
@@ -242,5 +153,24 @@
       "status": "Pedido Feito"
     }
   ],
-  "financeiro": []
+  "financeiro": [
+    {
+      "id": "FIN-1",
+      "data": "2026-11-21",
+      "tipo": "Entrada",
+      "categoria": "Vendas PDV",
+      "descricao": "Venda #VND-1001 - Mariana Silva",
+      "valor": 64.9,
+      "forma": "Pix"
+    },
+    {
+      "id": "FIN-2",
+      "data": "2026-11-21",
+      "tipo": "Saída",
+      "categoria": "Fornecedores (Revistas)",
+      "descricao": "Boleto Pedido Natura Ciclo 17",
+      "valor": 320,
+      "forma": "Boleto / Pix"
+    }
+  ]
 }
