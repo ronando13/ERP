@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T21:04:13.982Z",
+    "updatedAt": "2026-11-21T21:04:17.665Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
@@ -252,15 +252,6 @@
       "descricao": "Boleto Pedido Natura Ciclo 17",
       "valor": 320,
       "forma": "Boleto / Pix"
-    },
-    {
-      "id": "FIN-1795231369006",
-      "data": "2026-11-21",
-      "tipo": "Entrada",
-      "categoria": "Vendas PDV",
-      "descricao": "Venda #VND-1002 - Consumidor Final",
-      "valor": 374.70000000000005,
-      "forma": "Pix"
     }
   ]
 }
