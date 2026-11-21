@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.01",
-    "updatedAt": "2026-11-21T21:04:17.665Z",
+    "updatedAt": "2026-11-21T21:04:21.492Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
@@ -243,15 +243,6 @@
       "descricao": "Venda #VND-1001 - Mariana Silva",
       "valor": 64.9,
       "forma": "Pix"
-    },
-    {
-      "id": "FIN-2",
-      "data": "2026-11-21",
-      "tipo": "Saída",
-      "categoria": "Fornecedores (Revistas)",
-      "descricao": "Boleto Pedido Natura Ciclo 17",
-      "valor": 320,
-      "forma": "Boleto / Pix"
     }
   ]
 }
