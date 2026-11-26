@@ -1,17 +1,17 @@
 {
   "meta": {
-    "version": "1.01",
-    "updatedAt": "2026-11-21T22:18:43.155Z",
+    "version": "1.02",
+    "updatedAt": "2026-11-26T00:53:09.048Z",
     "developer": "DJC Sistemas e Automações"
   },
   "loja": {
-    "nomeFantasia": "Bazar & Perfumaria Encanto",
-    "razaoSocial": "Bazar e Variedades Encanto ME",
+    "nomeFantasia": "Bazar da Tiane",
+    "razaoSocial": "Bazar da Tiane",
     "cnpj": "00.000.000/0001-00",
     "telefone": "(51) 99999-0000",
-    "endereco": "Rua Principal, 123 - Centro",
-    "mensagemRecibo": "Obrigado pela preferência! Trocas em até 7 dias com este comprovante.",
-    "logoUrl": ""
+    "endereco": "Rua Alfredo Scharlau, 170 - Cohab - Sapucaia do Sul",
+    "logoUrl": "https://www.minhaloja.natura.com/c/ofertanoturna?consultoria=crisquadros&utm_source=crm&utm_medium=news&utm_term=x&utm_content=acesseosite&utm_campaign=SCF_BRA_MKT-A_20261125_EMAIL_OFF_NSA_DX_NX_NSA_P01_OFERTANOTURNASC&marca=avon",
+    "mensagemRecibo": "Obrigado pela preferência! Trocas em até 7 dias com este comprovante."
   },
   "usuarios": [
     {
